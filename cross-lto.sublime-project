@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/mw/llvm"
+		},
+		{
+			"path": "/home/mw/0-rust"
+		},
+		{
+			"path": "."
+		}
+	]
+}
